@@ -2,7 +2,7 @@
 以博物館探索作為發想，透過博物館虛擬空間探索館內文物，並以AR輔助介紹文物歷史。
 <div align=center><img alt="AR Museum" src="./image/all.jpg" width=50%></div>
 <div align=center id="allScene">虛擬博物館場景 (AR Museum Scene)</div>
-<div align=center><img alt="AR Museum" src="./image/all2.jpg"></div>
+<div align=center><img alt="AR Museum" src="./image/all2.g"></div>
 <div align=center id="allScene">虛擬博物館AR實作</div>
   
 ## 製作發想
